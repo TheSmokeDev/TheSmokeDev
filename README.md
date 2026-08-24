@@ -23,6 +23,7 @@ python -m pip install geoskills
 
 ### [token-max-site-factory](https://github.com/TheSmokeDev/token-max-site-factory)
 
+[![Stars](https://img.shields.io/github/stars/TheSmokeDev/token-max-site-factory?style=social)](https://github.com/TheSmokeDev/token-max-site-factory/stargazers)
 [![PyPI](https://img.shields.io/pypi/v/token-max-site-factory)](https://pypi.org/project/token-max-site-factory/)
 [![CI](https://github.com/TheSmokeDev/token-max-site-factory/actions/workflows/ci.yml/badge.svg)](https://github.com/TheSmokeDev/token-max-site-factory/actions/workflows/ci.yml)
 
