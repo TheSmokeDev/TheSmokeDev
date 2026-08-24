@@ -9,6 +9,7 @@ between local output and public state.
 ### [geo-skills](https://github.com/TheSmokeDev/geo-skills)
 
 [![Stars](https://img.shields.io/github/stars/TheSmokeDev/geo-skills?style=social)](https://github.com/TheSmokeDev/geo-skills/stargazers)
+[![PyPI](https://img.shields.io/pypi/v/geoskills)](https://pypi.org/project/geoskills/)
 [![CI](https://github.com/TheSmokeDev/geo-skills/actions/workflows/ci.yml/badge.svg)](https://github.com/TheSmokeDev/geo-skills/actions/workflows/ci.yml)
 
 Twenty-nine free Agent Skills plus the `geoskills` CLI for Generative Engine
@@ -16,13 +17,22 @@ Optimization, AI-search visibility, citability, crawler access, live-data prompt
 packs, and owner-intent mapping. Works with Claude Code, Codex, and other agents that
 read `SKILL.md`.
 
+```bash
+python -m pip install geoskills
+```
+
 ### [token-max-site-factory](https://github.com/TheSmokeDev/token-max-site-factory)
 
+[![PyPI](https://img.shields.io/pypi/v/token-max-site-factory)](https://pypi.org/project/token-max-site-factory/)
 [![CI](https://github.com/TheSmokeDev/token-max-site-factory/actions/workflows/ci.yml/badge.svg)](https://github.com/TheSmokeDev/token-max-site-factory/actions/workflows/ci.yml)
 
 An agent-native programmatic SEO/GEO factory. It scans a site, generates
 evidence-backed pages, blocks weak or duplicate output, and emits provenance receipts.
 It never deploys, changes DNS, or submits URLs.
+
+```bash
+python -m pip install token-max-site-factory
+```
 
 ```text
 research + community + AI prompt panels
