@@ -1,9 +1,11 @@
 # SmokeDev
 
-I build open-source agent systems that can remember, coordinate, speak, and prove
-what they did. These are the three projects at the center of that work.
+I build open-source agent tools in public. These are the three projects I am
+actively working on right now. They are different kinds of projects, and none
+of them is a finished monument: feature requests, experiments, documentation,
+fixes, and pull requests are welcome.
 
-## Flagship systems
+## What I am building right now
 
 ### 01 / [TaskChad OS](https://github.com/TheSmokeDev/taskchad-os)
 
@@ -39,10 +41,13 @@ python -m pip install geoskills
 [![PyPI](https://img.shields.io/pypi/v/hermes-talk)](https://pypi.org/project/hermes-talk/)
 [![CI](https://github.com/TheSmokeDev/hermes-talk/actions/workflows/ci.yml/badge.svg)](https://github.com/TheSmokeDev/hermes-talk/actions/workflows/ci.yml)
 
-Realtime voice as an orchestrator for Hermes Agent. Talk naturally while Hermes
-uses tools, searches memory, delegates concurrent work, accepts interruption,
-and reports completed runs back out loud across terminal, dashboard, and Discord
-surfaces.
+[Hermes Talk](https://github.com/TheSmokeDev/hermes-talk) is a plug-in for
+[Hermes Agent](https://github.com/NousResearch/hermes-agent), not another agent
+OS. It makes realtime voice an orchestration surface: talk naturally while
+Hermes uses tools, searches memory, delegates concurrent work, accepts
+interruption, and reports completed runs back out loud across terminal,
+dashboard, and Discord. I think that interaction model is game-changing, and I
+am actively developing it.
 
 ```bash
 hermes plugins install TheSmokeDev/hermes-talk --enable
@@ -61,6 +66,19 @@ Hermes Talk  → realtime voice, tool use, delegation, operator feedback
 Different surfaces, same doctrine: persistent context, inspectable commands,
 approval boundaries, deterministic gates, and receipts that distinguish local
 output from pushed, deployed, indexed, or cited reality.
+
+## Build with me
+
+All three are being built in public as community projects. If something is
+missing, open a feature request. If you have a better implementation, send a
+pull request. Ideas, bug reports, documentation, integrations, experiments, and
+new contributors are welcome.
+
+| Project | Request or report | Talk it through | Contribute code |
+| --- | --- | --- | --- |
+| TaskChad OS | [Open an issue](https://github.com/TheSmokeDev/taskchad-os/issues/new) | [Discussions](https://github.com/TheSmokeDev/taskchad-os/discussions) | [Pull requests](https://github.com/TheSmokeDev/taskchad-os/pulls) |
+| geo-skills | [Open an issue](https://github.com/TheSmokeDev/geo-skills/issues/new) | [Discussions](https://github.com/TheSmokeDev/geo-skills/discussions) | [Pull requests](https://github.com/TheSmokeDev/geo-skills/pulls) |
+| Hermes Talk | [Open an issue](https://github.com/TheSmokeDev/hermes-talk/issues/new) | [Discussions](https://github.com/TheSmokeDev/hermes-talk/discussions) | [Pull requests](https://github.com/TheSmokeDev/hermes-talk/pulls) |
 
 ## Supporting systems
 
