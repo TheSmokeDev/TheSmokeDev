@@ -29,18 +29,9 @@ python -m pip install "hermes-talk[audio]"
 hermes talk
 ```
 
-### 02 / [TaskChad OS](https://github.com/TheSmokeDev/taskchad-os)
+### 02 / In private beta
 
-[![Stars](https://img.shields.io/github/stars/TheSmokeDev/taskchad-os?style=social)](https://github.com/TheSmokeDev/taskchad-os/stargazers)
-[![Release](https://img.shields.io/github/v/release/TheSmokeDev/taskchad-os?sort=semver)](https://github.com/TheSmokeDev/taskchad-os/releases/latest)
-
-An identity-first cognitive agent operating system: persistent memory,
-multi-channel ingress, Operating Room orchestration, approval-aware delegation,
-and desktop control surfaces. TaskChad OS is where agents become a durable
-operating environment instead of another disposable chat window.
-
-**Explore:** [architecture and source](https://github.com/TheSmokeDev/taskchad-os) ·
-[latest release](https://github.com/TheSmokeDev/taskchad-os/releases/latest)
+A rebuilt, voice-first workspace for coding and AI agents. Publishing soon.
 
 ### 03 / [geo-skills](https://github.com/TheSmokeDev/geo-skills)
 
@@ -61,7 +52,7 @@ python -m pip install geoskills
 
 ```text
 Hermes Talk   → realtime voice, tool use, delegation, operator feedback
-TaskChad OS   → identity, memory, orchestration, control plane
+Private beta  → voice-first workspace for coding and AI agents
 geo-skills    → GEO research, AI-search visibility, citation growth
 ```
 
@@ -71,7 +62,7 @@ output from pushed, deployed, indexed, or cited reality.
 
 ## Build with me
 
-All three are being built in public as community projects. If something is
+Hermes Talk and geo-skills are built in public as community projects. If something is
 missing, open a feature request. If you have a better implementation, send a
 pull request. Ideas, bug reports, documentation, integrations, experiments, and
 new contributors are welcome.
@@ -79,7 +70,6 @@ new contributors are welcome.
 | Project | Request or report | Talk it through | Contribute code |
 | --- | --- | --- | --- |
 | Hermes Talk | [Open an issue](https://github.com/TheSmokeDev/hermes-talk/issues/new) | [Discussions](https://github.com/TheSmokeDev/hermes-talk/discussions) | [Pull requests](https://github.com/TheSmokeDev/hermes-talk/pulls) |
-| TaskChad OS | [Open an issue](https://github.com/TheSmokeDev/taskchad-os/issues/new) | [Discussions](https://github.com/TheSmokeDev/taskchad-os/discussions) | [Pull requests](https://github.com/TheSmokeDev/taskchad-os/pulls) |
 | geo-skills | [Open an issue](https://github.com/TheSmokeDev/geo-skills/issues/new) | [Discussions](https://github.com/TheSmokeDev/geo-skills/discussions) | [Pull requests](https://github.com/TheSmokeDev/geo-skills/pulls) |
 
 ## Supporting systems
@@ -89,3 +79,7 @@ new contributors are welcome.
 - [FTW](https://github.com/TheSmokeDev/ftw) — multi-agent validation built to make the first try work.
 - [PIV Loop SDK](https://github.com/TheSmokeDev/piv--loop-sdk) — typed plan, implement, and independently validate loops.
 - [Archon](https://github.com/TheSmokeDev/Archon) — an open-source harness builder for deterministic AI coding.
+
+## Earlier work
+
+- [TaskChad OS](https://github.com/TheSmokeDev/taskchad-os) — my first agent OS, now archived. The rebuild is in private beta.
