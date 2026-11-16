@@ -1,9 +1,6 @@
 # SmokeDev
 
-I'm Pedro Mendoza: a software developer and licensed insurance agent in San Diego
-who puts AI agents to work inside real businesses.
-
-I build open-source agent tools in public. These are the three projects I am
+I'm Pedro Mendoza. I build open-source agent tools in public. These are the three projects I am
 actively working on right now. They are different kinds of projects, and none
 of them is a finished monument: feature requests, experiments, documentation,
 fixes, and pull requests are welcome.
